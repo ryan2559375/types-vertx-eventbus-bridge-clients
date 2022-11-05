@@ -1,0 +1,1 @@
+Types for @vertx/eventbus-bridge-client.js
